@@ -12,6 +12,7 @@ public class Main {
             System.out.println("2. View Tasks");
             System.out.println("3. Mark Task Done");
             System.out.println("4. Exit");
+            System.out.println("Added a new feature");
 
             System.out.print("Choose option: ");
             int choice = sc.nextInt();
